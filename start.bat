@@ -1,0 +1,1 @@
+java -jar jBibl.jar UPDATE "d:\01 Document" *.txt,*.pdf,*.doc,*.docx,*.ods,*.odt 1 yes
